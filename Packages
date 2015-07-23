@@ -2,12 +2,12 @@ Package: <com.teamdsbaig.heartslider8>
 Version: <1.0>
 Architecture: iphoneos-arm
 Maintainer: Diana B. <teamdsbaig@gmail.com>
-Depends: 
+Depends: <>
 Filename: debs//<deb>
 Size: <18846>
 MD5sum: <ba91b5f14871008aa69351f6b7168697>
 SHA1: <519a6d01a089007e99ef280a4d4199f8dcfb4400>
-SHA256: 
+SHA256: <>
 Section: <Themes>
 Description: <A Lockscreen Slider>
 Author: Diana B. <teamdsbaig@gmail.com>
