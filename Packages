@@ -3,11 +3,11 @@ Version: <1.0>
 Architecture: iphoneos-arm
 Maintainer: Diana B. <teamdsbaig@gmail.com>
 Depends: <>
-Filename: debs//<deb>
+Filename: debs//<com.teamdsbaig.heartslider8>
 Size: <18846>
-MD5sum: <ba91b5f14871008aa69351f6b7168697>
-SHA1: <519a6d01a089007e99ef280a4d4199f8dcfb4400>
-SHA256: <>
+MD5sum: <BA91B5F14871008AA69351F6B7168697>
+SHA1: <519A6D01A089007E99EF280A4D4199F8DCFB4400>
+SHA256: <CB436AC819DE4A566C527FE6CA5CE39D06721FC69622737BE16EC06ADC3895B0>
 Section: <Themes>
 Description: <A Lockscreen Slider>
 Author: Diana B. <teamdsbaig@gmail.com>
