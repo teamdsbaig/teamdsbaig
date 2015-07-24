@@ -2,7 +2,7 @@ Package: com.teamdsbaig.heartslider8
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Diana B. <teamdsbaig@gmail.com>
-Depends: 
+Depends: Winterboard
 Filename: debs//com.teamdsbaig.heartslider8
 Size: 18846
 MD5sum: BA91B5F14871008AA69351F6B7168697
