@@ -8,7 +8,7 @@ Size: 18846
 MD5sum: BA91B5F14871008AA69351F6B7168697
 SHA1: 519A6D01A089007E99EF280A4D4199F8DCFB4400
 SHA256: CB436AC819DE4A566C527FE6CA5CE39D06721FC69622737BE16EC06ADC3895B0
-Section: Themes
+Section: Themes (Lockscreen)
 Description: A Lockscreen Slider for iOS7 and iOS8
 Author: Diana B. <teamdsbaig@gmail.com>
 Depiction: http://teamdsbaig.github.io/depic/com.teamdsbaig.heartslider8/index.html
