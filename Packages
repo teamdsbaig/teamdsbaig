@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Diana B. <teamdsbaig@gmail.com>
 Depends: Winterboard
-Filename: debs//com.teamdsbaig.heartslider8
+Filename: debs//com.teamdsbaig.heartslider8.deb
 Size: 18846
 MD5sum: BA91B5F14871008AA69351F6B7168697
 SHA1: 519A6D01A089007E99EF280A4D4199F8DCFB4400
@@ -19,7 +19,7 @@ Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: Saadat B. <teamdsbaig@gmail.com>
 Depends: Winterboard
-Filename: debs//com.teamdsbaig.clarityextended
+Filename: debs//com.teamdsbaig.clarityextended.deb
 Size: 1768894
 MD5sum: 8FC429E08DE9AB2A7BF1515FE16F205B
 SHA1: CF1B6E7AFD66616A64A92D925A60B4783D69C210
