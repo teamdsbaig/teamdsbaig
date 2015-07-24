@@ -5,9 +5,9 @@ Maintainer: Diana B. <teamdsbaig@gmail.com>
 Depends: Winterboard
 Filename: debs//com.teamdsbaig.heartslider8.deb
 Size: 18846
-MD5sum: BA91B5F14871008AA69351F6B7168697
-SHA1: 519A6D01A089007E99EF280A4D4199F8DCFB4400
-SHA256: CB436AC819DE4A566C527FE6CA5CE39D06721FC69622737BE16EC06ADC3895B0
+MD5sum: ba91b5f14871008aa69351f6b7168697
+SHA1: 519a6d01a089007e99ef280a4d4199f8dcfb4400
+SHA256: cb436ac819de4a566c527fe6ca5ce39d06721fc69622737be16ec06adc3895b0
 Section: Themes (Lockscreen)
 Description: A Lockscreen Slider for iOS7 and iOS8
 Author: Diana B. <teamdsbaig@gmail.com>
@@ -21,9 +21,9 @@ Maintainer: Saadat B. <teamdsbaig@gmail.com>
 Depends: Winterboard
 Filename: debs//com.teamdsbaig.clarityextended.deb
 Size: 1768894
-MD5sum: 8FC429E08DE9AB2A7BF1515FE16F205B
-SHA1: CF1B6E7AFD66616A64A92D925A60B4783D69C210
-SHA256: A943B7E6ECF9287D7FEA23AA9B79713E9435D5A411ACFD326C5B59A974E4E56C
+MD5sum: 8fc429e08de9ab2a7bf1515fe16f205b
+SHA1: cf1b6e7afd66616a64a92d925a60b4783d69c210
+SHA256: a943b7e6ecf9287d7fea23aa9b79713e9435d5a411acfd326c5b59a974e4e56c
 Section: Themes
 Description: A beautiful transparent theme for your iDevice
 Author: Saadat B. <teamdsbaig@gmail.com>
