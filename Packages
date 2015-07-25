@@ -34,7 +34,7 @@ Package: com.teamdsbaig.aria
 Version: 1.1.13-x
 Architecture: iphoneos-arm
 Maintainer: X <teamdsbaig@gmail.com>
-Depends: 
+Depends: mobilesubstrate
 Filename: debs//com.teamdsbaig.aria.deb
 Size: 472862
 MD5sum: dc9645256135de7d69cdc373786eb0f2
