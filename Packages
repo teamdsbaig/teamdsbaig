@@ -61,3 +61,19 @@ Description: Great Spotify Addon!
 Author: X <teamdsbaig@gmail.com>
 Depiction: http://teamdsbaig.github.io/depic/com.teamdsbaig.fetchify/index.html
 Name: Fetchify
+
+Package: com.teamdsbaig.bioprotect
+Version: 1.7-282
+Architecture: iphoneos-arm
+Maintainer: X <teamdsbaig@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//com.teamdsbaig.bioprotect.deb
+Size: 416380
+MD5sum: 60bb5d617486efd9aa83332b1d8ff6b5
+SHA1: e0f7787415a86a19ccdf7f60fd8936ffdcc8817a
+SHA256: e8510c4b5026d2d37d9ce10413710402762a467853ce6a9f759dd9956ccc8e61
+Section: System
+Description: Enhance Privacy!
+Author: X <teamdsbaig@gmail.com>
+Depiction: http://teamdsbaig.github.io/depic/com.teamdsbaig.bioprotect/index.html
+Name: BioProtect
