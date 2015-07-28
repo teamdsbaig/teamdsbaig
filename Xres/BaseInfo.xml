@@ -1,0 +1,32 @@
+<package>
+	<id>BundleString</id>
+	<name>Full Package</name>
+	<version>BundleVersionString</version>
+	<compatibility>
+		<firmware>
+			<miniOS>MinimumString</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>DependencyString</package>
+	</dependencies>
+	<descriptionlist>
+		<description>DescString1</description>
+		<description>DescString2</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>ScreenshotDescString1</description>
+			<image>ScreenName1.PNG</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>ChangelogString1</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/ds_baig</url>
+		</link>
+	</links>
+</package>
