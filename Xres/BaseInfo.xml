@@ -17,7 +17,7 @@
 	<screenshots>
 		<screenshot>
 			<description>ScreenshotDescString1</description>
-			<image>ScreenName1.PNG</image>
+			<image>ScreenName</image>
 		</screenshot>			
 	</screenshots>
 	<changelog>
@@ -27,6 +27,12 @@
 		<link>
 			<name>Twitter</name>
 			<url>https://twitter.com/ds_baig</url>
+		</link>
+		
+		<Link>
+			<name>About Us: /n
+			Basically just a married couple and our friend X. /n
+			Thank you for Using this Repository!</name>
 		</link>
 	</links>
 </package>
